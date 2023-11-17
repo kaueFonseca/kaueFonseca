@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on CITeB as an intern;<br>👯 I’m looking to collaborate on developing FullStack;<br>🤝 I’m looking for help with anything to improve my skills;<br>🌱 I’m currently learning javascript, Front/backend;<br>⚡ Fun fact I'm also an English Teacher in Brazil;
+🔭 I’m currently working at CITeB as an intern;<br>👯 I’m looking to collaborate on developing FullStack;<br>🤝 I’m looking for help with anything to improve my skills;<br>🌱 I’m currently learning javascript, Front/backend;<br>⚡ Fun fact I'm also an English Teacher in Brazil;
 
 
 ## 🌐 Socials:
